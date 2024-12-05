@@ -1,0 +1,18 @@
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"App","operation":"open"}
+{"signed_in":false,"milliseconds_since_first_event":31,"type":"Setting","setting":"theme","value":"One Dark"}
+{"signed_in":false,"milliseconds_since_first_event":31,"type":"Setting","setting":"keymap","value":"VSCode"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Extension","extension_id":"catppuccin","version":"0.2.8"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Extension","extension_id":"html","version":"0.1.1"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Extension","extension_id":"sql","version":"1.0.0"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Extension","extension_id":"toml","version":"0.1.1"}
+{"signed_in":false,"milliseconds_since_first_event":571,"type":"App","operation":"open node project"}
+{"signed_in":false,"milliseconds_since_first_event":744,"type":"Editor","operation":"open","file_extension":null,"vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true}
+{"signed_in":false,"milliseconds_since_first_event":779,"type":"Editor","operation":"open","file_extension":"conf","vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true}
+{"signed_in":false,"milliseconds_since_first_event":792,"type":"Editor","operation":"open","file_extension":"jsonc","vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true}
+{"signed_in":false,"milliseconds_since_first_event":239969,"type":"Memory","memory_in_bytes":753360896,"virtual_memory_in_bytes":47314092032}
+{"signed_in":false,"milliseconds_since_first_event":239969,"type":"Cpu","usage_as_percentage":25.712862,"core_count":16}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Editor","operation":"save","file_extension":"conf","vim_mode":false,"copilot_enabled":true,"copilot_enabled_for_language":true}
+{"signed_in":false,"milliseconds_since_first_event":112286,"type":"Memory","memory_in_bytes":814305280,"virtual_memory_in_bytes":47408422912}
+{"signed_in":false,"milliseconds_since_first_event":112286,"type":"Cpu","usage_as_percentage":16.371136,"core_count":16}
+{"signed_in":false,"milliseconds_since_first_event":146070,"type":"Edit","duration":17729,"environment":"editor"}
+{"signed_in":false,"milliseconds_since_first_event":198645,"type":"Edit","duration":28540,"environment":"editor"}
