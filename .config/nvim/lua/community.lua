@@ -20,6 +20,10 @@ return {
   { import = "astrocommunity.media.img-clip-nvim" },
   { import = "astrocommunity.comment.mini-comment" },
   { import = "astrocommunity.search.nvim-spectre" },
+  { import = "astrocommunity.scrolling.neoscroll-nvim" },
+  -- { import = "astrocommunity.recipes.vscode-icons" },
+  { import = "astrocommunity.diagnostics.trouble-nvim" },
+  { import = "astrocommunity.motion.flash-nvim" },
   -- 语言插件
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.lua" },
@@ -28,4 +32,5 @@ return {
   { import = "astrocommunity.pack.sql" },
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.json" },
+  { import = "astrocommunity.pack.hyprlang" },
 }
