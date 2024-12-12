@@ -1,6 +1,6 @@
 # Wallpaper Collection
 
-Welcome to the Wallpaper Collection repository! Here, you will find a diverse array of stunning wallpapers that you can download and use for your personal projects or desktop backgrounds.
+Wallpaper Collection for desktop
 
 ## Wallpapers
 
