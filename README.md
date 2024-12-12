@@ -29,8 +29,10 @@
 9. ![HM3.png](wallpaper/HM3.png)  
    [Download](wallpaper/HM3.png)
 
-10. ![MIKU SEA_120234064_p2.png](wallpaper/MIKU SEA_120234064_p2.png)  
-    [Download](wallpaper/MIKU SEA_120234064_p2.png)
+10. ![MIKU SEA_120234064_p2.png](wallpaper/MIKU%20SEA_120234064_p2.png)  
+    [Download](wallpaper/MIKU%20SEA_120234064_p2.png)
+
+
 
 11. ![alena-aenami-out-of-time.png](wallpaper/alena-aenami-out-of-time.png)  
     [Download](wallpaper/alena-aenami-out-of-time.png)
