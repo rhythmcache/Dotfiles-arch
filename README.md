@@ -1,8 +1,6 @@
-# Wallpaper Collection
+# Wallpaper Gallery
 
-Welcome to the wallpaper collection repository! Here are all the wallpapers you can view and download.
-
-## Wallpapers
+## Downloadable Wallpapers
 
 1. ![114827411_p0.jpg](wallpaper/114827411_p0.jpg)  
    [Download](wallpaper/114827411_p0.jpg)
@@ -118,8 +116,8 @@ Welcome to the wallpaper collection repository! Here are all the wallpapers you 
 38. ![gustavo-arteaga-reload.jpg](wallpaper/gustavo-arteaga-reload.jpg)  
     [Download](wallpaper/gustavo-arteaga-reload.jpg)
 
-39. ![homhshu.png](wallpaper/homhshu.png)  
-    [Download](wallpaper/homhshu.png)
+39. ![homhshu.png](wallaper/homhshu.png)
+   [Download] ( wallaper/homhshu.pn )
 
 40. ![jiao.jpg](wallpaper/jiao.jpg)  
     [Download](wallpaper/jiao.jpg)
@@ -163,8 +161,8 @@ Welcome to the wallpaper collection repository! Here are all the wallpapers you 
 53. ![sao.png](wallpaper/sao.png)  
     [Download](wallpaper/sao.png)
 
-54. ![shufa.png](wallpaper/shufa.png)  
-    [Download](wallpaper/shufa.png)
+54. ![shufa.jpg](wallpaper/shufa.jpg)  
+    [Download](wallpaper/shufa.jpg)
 
 55. ![snow.jpg](wallpaper/snow.jpg)  
     [Download](wallpaper/snow.jpg)
@@ -172,50 +170,115 @@ Welcome to the wallpaper collection repository! Here are all the wallpapers you 
 56. ![waifu_pink.png](wallpaper/waifu_pink.png)  
     [Download](wallpaper/waifu_pink.png)
 
-57. ![wallhaven-13dv2g.jpg](wallpaper/wallhaven-13dv2g.jpg)  
-    [Download](wallpaper/wallhaven-13dv2g.jpg)
+57. ![walhaven-13dv2g.jpg](wallpaper/walhaven-13dv2g.jpg)  
+    [Download](wallpaper/walhaven-13dv2g.jpg)
 
-58. ![wallhaven-1p266v.png](wallpaper/wallhaven-1p266v.png)  
-    [Download](wallpaper/wallhaven-1p266v.png)
+58. ![walhaven-1p266v.png](wallpaper/walhaven-1p266v.png)  
+    [Download](wallpaper/walhaven-1p266v.png)
 
-59. ![wallhaven-1p5zpw.png](wallpaper/wallhaven-1p5zpw.png)  
-    [Download](wallpaper/wallhaven-1p5zpw.png)
+59. ![walhaven-1p5zpw.png](wallpaper/walhaven-1p5zpw.png)  
+    [Download](wallpaper/walhaven-1p5zpw.png)
 
-60. ![wallhaven-1pv19v.png](wallpaper/wallhaven-1pv19v.png)  
-    [Download](wallpaper/wallhaven-1pv19v.png)
+60. ![walhaven-1pv19v.jpg](wallpaper/walhaven-1pv19v.jpg)  
+    [Download](wallpaper/walhaven-1pv19v.jpg)
 
-61. ![wallhaven-1pyk79.jpg](wallpaper/wallhaven-1pyk79.jpg)  
-    [Download](wallpaper/wallhaven-1pyk79.jpg)
+61. ![walhaven-1pyk79.jpg](wallpaper/walhaven-1pyk79.jpg)  
+    [Download](wallpaper/walhaven-1pyk79.jpg)
 
-62. ![wallhaven-2yxp16.jpg](wallpaper/wallhaven-2yxp16.jpg)  
-    [Download](wallpaper/wallhaven-2yxp16.jpg)
+62. ![walhaven-2yxp16.jpg](wallpaper/walhaven-2yxp16.jpg)  
+    [Download](wallpaper/walhaven-2yxp16.jpg)
 
-63. ![wallhaven-3led2d.jpg](wallpaper/wallhaven-3led2d.jpg)  
-    [Download](wallpaper/wallhaven-3led2d.jpg)
+63. ![walhaven-3led2d.jpg](wallpaper/walhaven-3led2d.jpg)  
+    [Download](wallpaper/walhaven-3led2d.jpg)
 
-64. ![wallhaven-3lp2md.jpg](wallpaper/wallhaven-3lp2md.jpg)  
-    [Download](wallpaper/wallhaven-3lp2md.jpg)
+64. ![walhaven-3lp2md.jpg](wallpaper/walhaven-3lp2md.jpg)  
+    [Download](wallpaper/walhaven-3lp2md.jpg)
 
-65. ![wallhaven-5g9ed8.png](wallpaper/wallhaven-5g9ed8.png)  
-    [Download](wallpaper/wallhaven-5g9ed8.png)
+65. ![walhaven-5g9ed8.png](wallpaper/walhaven-5g9ed8.png)  
+    [Download](wallpaper/walhaven-5g9ed8.png)
 
-66. ![wallhaven-5gel59.jpg](wallpaper/wallhaven-5gel59.jpg)  
-    [Download](wallpaper/wallhaven-5gel59.jpg)
+66. ![walhaven-5gel59.jpg](wallpaper/walhaven-5gel59.jpg)  
+    [Download](wallpaper/walhaven-5gel59.jpg)
 
-67. ![wallhaven-7pg1m9.jpg](wallpaper/wallhaven-7pg1m9.jpg)  
-    [Download](wallpaper/wallhaven-7pg1m9.jpg)
+67. ![walhaven-7pg1m9.jpg](wallpaper/walhaven-7pg1m9.jpg)  
+    [Download](wallpaper/walhaven-7pg1m9.jpg)
 
-68. ![wallhaven-83m1k1.png](wallpaper/wallhaven-83m1k1.png)  
-    [Download](wallpaper/wallhaven-83m1k1.png)
+68. ![walhaven-83m1k1.png](wallpaper/walhaven-83m1k1.png)  
+    [Download](wallpaper/walhaven-83m1k1.png)
 
-69. ![wallhaven-85wqyy.jpg](wallpaper/wallhaven-85wqyy.jpg)  
-    [Download](wallpaper/wallhaven-85wqyy.jpg)
+69. ![walhaven-85wqyy.jpg](wallpaper/walhaven-85wqyy.jpg)  
+    [Download](wallpaper/walhaven-85wqyy.jpg)
 
-70. ![wallhaven-85yd3y.png](wallpaper/wallhaven-85yd3y.png)  
-    [Download](wallpaper/wallhaven-85yd3y.png)
+70. ![walhaven-85yd3y.png](wallpaper/walhaven-85yd3y.png)  
+    [Download](wallpaper/walhaven-85yd3y.png)
 
-71. ![wallhaven-9dp3y1.jpg](wallpaper/wallhaven-9dp3y1.jpg)  
-    [Download](wallpaper/wallhaven-9dp3y1.jpg)
+71. ![walhaven-9dp3y1.jpg](wallpaper/walhaven-9dp3y1.jpg)  
+    [Download](wallpaper/walhaven-9dp3y1.jpg)
 
-72. ![wallhaven-9dvl38.png](wallpaper/wallhaven-9dvl38.png)  
-    [Download](wallpaper/wallhaven-9dvl38.png)
+72. ![walhaven-9dvl38.png](wallpaper/walhaven-9dvl38.png)  
+    [Download](wallpaper/walhaven-9dvl38.png)
+
+73. ![walhaven-d6j79o.png](wallpaper/walhaven-d6j79o.png)  
+    [Download](wallpaper/walhaven-d6j79o.png)
+
+74. ![walhaven-d6rj3l.jpg](wallpaper/walhaven-d6rj3l.jpg)  
+    [Download](wallpaper/walhaven-d6rj3l.jpg)
+
+
+75 .![walhaven - dgzrol.pn ]( walappen/walhaven - dgzrol.pn )
+
+76 .![walhaven-exm2l8.pn ]( walappen/walhaven-exm2l8.pn )
+
+77 .![walhaven-exwvpr.jao ]( walappen/walhaven-exwvpr.jao )
+
+78 .![walhaven-eymkz8.pn ]( walappen/walhaven-eymkz8.pn )
+
+79 .![walhaven-g8qqll.jao ]( walappen/walhaven-g8qqll.joa )
+
+80.[!walhave-gpj1pl,jpg ]( walappen/wallhave-l86kol,jpg ) 
+
+81.[!walhave-jxyd5m,jpg ]( walappen/wallhave-l86kol,jpg ) 
+
+82.[!walhave-k7jd2q,jpg ]( walappen/wallhave-l86kol,jpg ) 
+
+83.[!walhave-kweey6m,jpg ]( walappen/wallhave-l86kol,jpg ) 
+
+84.[!walhave-l3e2mr,jpg ]( walappen/wallhave-l86kol,jpg ) 
+
+85.[!walhave-l86kol,jpg ]( walappen/wallhave-l86kol,jpg ) 
+
+86.[!walhave-l8x1pr,jpg ]( walappen/wallhave-l86kol,jpg ) 
+
+87.[!walhave-lm5qkq,jpg ]( walappen/wallhave-l86kol,jpg ) 
+
+88.[!walhave-m3718y,png ]( walappen/m3718y,png ) 
+
+89.[!walhave-m3gy99,jpg ]( walappen/m3gy99,jpg ) 
+
+90.[!walhave-m3kw8y,jpg ]( walappen/m3kw8y,jpg ) 
+
+91.[!walhave-m9p7r8,jpg ]( walappen/m9p7r8,jpg ) 
+
+92.[!walhave-nkjk5d,jpg ]( walappen/nkjk5d,jpg ) 
+
+93.[!walhave-nr2om4,jpg ]( walappen/nr2om4,jpg ) 
+
+94.[!walhave-o5q7mp,jpg ]( walappen/o5q7mp,jpg ) 
+
+95.[!walhave-p2d3k9,jpg ]( walappen/p2d3k9,jpg ) 
+
+96.[!walhave-p9w1ke,png ]( walappen/p9w1ke,png ) 
+
+97.[!walhave-rll6m,png ]( walappen/rll6m,png ) 
+
+98.[!walhave-x6mxll,png ]( walappen/x6mxll,png ) 
+
+99.[!walhave-yxd17l,png ]( walappen/yxd17l,png ) 
+
+100.[!walhave-yxe85x,jpg ]( walappen/yxe85x,jpg ) 
+
+101.[!walhave-yxm6y7,jpg ]( walappen/yxm6y7,jpg ) 
+
+102.[!walhave-yxp6zl,jpg ]( walappend/yxp6zl,jpg ) 
+
+
